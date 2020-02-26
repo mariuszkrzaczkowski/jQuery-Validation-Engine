@@ -1,7 +1,7 @@
 {
   "name": "jquery-validation-engine",
-  "version": "1.0.0",
-  "description": "jQuery.validationEngine v2.6.2 =====",
+  "version": "3.1.1",
+  "description": "Validate your forms with style. Complete api included for advanced users",
   "main": "index.js",
   "directories": {
     "test": "tests"
@@ -16,8 +16,8 @@
     "type": "git",
     "url": "git+https://github.com/posabsolute/jQuery-Validation-Engine.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Olivier Refalo (http://www.position-absolute.com)",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/posabsolute/jQuery-Validation-Engine/issues"
   },
